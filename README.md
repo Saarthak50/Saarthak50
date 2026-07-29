@@ -185,16 +185,6 @@ A Streamlit app that processes news URLs, builds **FAISS** vector embeddings, an
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saarthak50&show_icons=true&theme=transparent&hide_border=true&title_color=8B8FA3&icon_color=8B8FA3&text_color=6e7681&bg_color=00000000&rank_icon=github" />
 <img height="170" src="https://streak-stats.demolab.com/?user=Saarthak50&theme=transparent&hide_border=true&ring=8B8FA3&fire=8B8FA3&currStreakLabel=8B8FA3&background=00000000&sideLabels=6e7681&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saarthak50&layout=compact&theme=transparent&hide_border=true&title_color=8B8FA3&text_color=6e7681&bg_color=00000000" width="46%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saarthak50&theme=minimal&hide_border=true&bg_color=00000000&color=6e7681&line=8B8FA3&point=ffffff&area=true&area_color=8B8FA3" width="100%"/>
 </div>
 
 <br/>
