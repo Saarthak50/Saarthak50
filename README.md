@@ -182,8 +182,8 @@ A Streamlit app that processes news URLs, builds **FAISS** vector embeddings, an
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saarthak50&show_icons=true&theme=transparent&hide_border=true&title_color=8B8FA3&icon_color=8B8FA3&text_color=6e7681&bg_color=00000000&rank_icon=github" />
-<img height="170" src="https://streak-stats.demolab.com/?user=Saarthak50&theme=transparent&hide_border=true&ring=8B8FA3&fire=8B8FA3&currStreakLabel=8B8FA3&background=00000000&sideLabels=6e7681&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saarthak50&show_icons=true&theme=transparent&hide_border=true&title_color=8B8FA3&icon_color=8B8FA3&text_color=6e7681&bg_color=00000000&rank_icon=github&cache_seconds=86400" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Saarthak50&theme=transparent&hide_border=true&ring=8B8FA3&fire=8B8FA3&currStreakLabel=8B8FA3&background=00000000&sideLabels=6e7681&dates=6e7681&currStreakNum=ffffff&sideNums=ffffff&cache_seconds=86400" />
 
 </div>
 
@@ -199,13 +199,25 @@ A Streamlit app that processes news URLs, builds **FAISS** vector embeddings, an
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/Saarthak50?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="75%"/>
+<table width="100%">
+<tr>
 
-<br/><br/>
+<td width="55%" valign="middle" align="center">
+
+<img src="https://leetcard.jacoblin.cool/Saarthak50?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" width="100%"/>
+
+</td>
+
+<td width="45%" valign="middle" align="center">
 
 <a href="https://codeforces.com/profile/sarthak50" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthak50" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sarthak50" width="100%"/>
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
